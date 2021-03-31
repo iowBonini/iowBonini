@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iowBonini
+- 👀 I’m interested in learn new things here
+- 🌱 I’m currently learning html, css, js...
+- 💞️ I don't know how that works, but seems nice
+- 📫 How to reach me? There's no way
+- 👽 That's all, thanks
